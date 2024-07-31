@@ -1,9 +1,18 @@
 #include <iostream>
 
+// This function prints
 void print()
 {
-    std::cout << "Hello Skillbox\n";
+    // This statment prints
+    std::cout << "Hello Skillbox\n"; // This function prints
 }
+
+/*
+*1
+*2
+*3
+*4
+*/
 int main()
 {
 
@@ -12,5 +21,4 @@ int main()
     int mult = x * y;
 
     std::cout << "Hello World!";
-
 }
